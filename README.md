@@ -1,1 +1,1 @@
-# Unofficial-Hak5_MK7_Docs
+# Unofficial Hak5 Pineapple MK7 Docs
